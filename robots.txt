@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://reifagugai.kadotake-kai.org/sitemap.xml
